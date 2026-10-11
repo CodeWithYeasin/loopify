@@ -92,4 +92,4 @@ loopify/
 
 ## License
 
-MIT
+[![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg)](LICENSE)
