@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.svg" alt="Loopify skill" width="680">
+</p>
+
 # Loopify
 
 Turn a plain task into a self-verifying loop, run it, and get back a
@@ -86,9 +90,23 @@ loopify/
 │   ├── verifiers.md      check patterns by task type
 │   └── examples.md       worked examples
 ├── adapters/             one file per platform
+├── tools/
+│   └── banner.js         regenerates banner.svg
+├── banner.svg            README header
 ├── build.sh              makes loopify.zip
 └── LICENSE
 ```
+
+## Banner
+
+The header image is generated, not hand-drawn:
+
+```bash
+node tools/banner.js
+```
+
+Colors live in two constants at the top of that file — `FILL` for the
+block faces, `SHAD` for the offset outline.
 
 ## License
 
