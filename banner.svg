@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="265" viewBox="0 0 680 265">
+<defs>
+<g id="w">
+<rect x="24" y="26" width="26" height="65"/><rect x="24" y="91" width="78" height="26"/>
+<rect x="115" y="26" width="78" height="26"/><rect x="115" y="52" width="26" height="39"/><rect x="167" y="52" width="26" height="39"/><rect x="115" y="91" width="78" height="26"/>
+<rect x="206" y="26" width="78" height="26"/><rect x="206" y="52" width="26" height="39"/><rect x="258" y="52" width="26" height="39"/><rect x="206" y="91" width="78" height="26"/>
+<rect x="297" y="26" width="26" height="91"/><rect x="323" y="26" width="52" height="26"/><rect x="349" y="52" width="26" height="13"/><rect x="323" y="65" width="52" height="26"/>
+<rect x="388" y="26" width="78" height="26"/><rect x="414" y="52" width="26" height="39"/><rect x="388" y="91" width="78" height="26"/>
+<rect x="479" y="26" width="26" height="91"/><rect x="505" y="26" width="52" height="26"/><rect x="505" y="65" width="39" height="26"/>
+<rect x="570" y="26" width="26" height="26"/><rect x="622" y="26" width="26" height="26"/><rect x="570" y="52" width="78" height="13"/><rect x="596" y="65" width="26" height="52"/>
+<rect x="24" y="143" width="78" height="26"/><rect x="24" y="169" width="26" height="13"/><rect x="24" y="182" width="78" height="13"/><rect x="76" y="195" width="26" height="13"/><rect x="24" y="208" width="78" height="26"/>
+<rect x="115" y="143" width="26" height="91"/><rect x="167" y="143" width="26" height="13"/><rect x="154" y="156" width="26" height="13"/><rect x="141" y="169" width="26" height="39"/><rect x="154" y="208" width="26" height="13"/><rect x="167" y="221" width="26" height="13"/>
+<rect x="206" y="143" width="78" height="26"/><rect x="232" y="169" width="26" height="39"/><rect x="206" y="208" width="78" height="26"/>
+<rect x="297" y="143" width="26" height="65"/><rect x="297" y="208" width="78" height="26"/>
+<rect x="388" y="143" width="26" height="65"/><rect x="388" y="208" width="78" height="26"/>
+</g>
+</defs>
+<rect width="680" height="265" fill="#121212"/>
+<use href="#w" x="6" y="6" fill="none" stroke="#F0502A" stroke-width="3"/>
+<use href="#w" fill="#E07B5F"/>
+</svg>
